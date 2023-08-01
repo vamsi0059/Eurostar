@@ -1,6 +1,16 @@
 {
-    "tiketDetails":{
-        "enterThefromDetails": "London St Pancras Int'l",
-        "enterTheToDetails": "Paris Gare du Nord"
-      }
+  "tiketDetails": {
+    "enterThefromDetails": "London St Pancras Int'l",
+    "enterTheToDetails": "Paris Gare du Nord"
+  },
+  "validationdetails":  {
+    "checkOutDetails": "Checkout",
+    "allCacheDetails": "ACCEPT ALL",
+    "trainsDetails": "Trains",
+    "returnCheckBox": "Return",
+    "dateOkButton": "ok",
+    "adultsDetails": "2 Adults",
+    "clickOutBounded": "Select",
+    "gustOne": "Check out as a guest,"
+  }
 }
