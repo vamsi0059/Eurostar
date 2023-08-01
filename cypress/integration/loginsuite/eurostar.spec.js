@@ -28,6 +28,6 @@ describe("Testing the railway ticket booking system", () => {
         loginpage.checkOutAsGueast();
         loginpage.checkOutAsScreanText(loginuserdata.validationdetails);
 
-    })
+    });
 
-})
+});

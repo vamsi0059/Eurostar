@@ -48,7 +48,7 @@ class Login {
     clickTheDateButton(logindata) {
         cy.get('[class="sc-7w9xhz-0 elMkGB"]')
             .should('have.text', 'OK')
-            .click();;
+            .click();
     }
     thePassengerDetails(logindata) {
         cy.get('[name="passenger-type"]').click();
